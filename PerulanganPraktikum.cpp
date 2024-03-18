@@ -16,6 +16,6 @@ int main()
     }
 
     for (1 = 0; 1 < 5; 1++){
-        cout << "Nama ke - " << i << " : " << arr[i] << endl;
+        cout << "Bilangan ke - " << i << " : " << arr[i] << endl;
     }
 }
